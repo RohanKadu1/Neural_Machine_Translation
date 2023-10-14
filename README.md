@@ -39,11 +39,6 @@ cd french-to-english-translation
 
 pip install -r requirements.txt
 
-## Usage
-
-- **Keras Model**: To run the machine translation model using Keras, open and run the Jupyter Notebook file `Keras_Machine_Translation.ipynb`. This notebook provides step-by-step instructions for data preprocessing, model building, training, and evaluation.
-
-- **Transformers Model**: To use the Transformers-based machine translation model, open and run the Jupyter Notebook file `Transformers_Machine_Translation.ipynb`. This notebook demonstrates the use of the Transformers library for translation tasks.
 
 ## Model Comparison
 
